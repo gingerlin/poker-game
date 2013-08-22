@@ -1,6 +1,6 @@
 function clickOnPoker(evt) {
     var poker = evt.target;
-    poker.click = null;
+    poker.onclick = null;
     poker.style.backgroundImage = 'url(' + randomPoker() + ')';
 }
 
