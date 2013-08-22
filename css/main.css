@@ -1,9 +1,6 @@
-.poker-row {
-}
-
 .poker-card {
     display: inline-block;
-    height: 90px;
-    width: 50px;
+    width: 113px;
+    height: 160px;
     background-color: black;
 }
